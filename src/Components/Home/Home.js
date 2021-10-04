@@ -50,7 +50,7 @@ const Home = () => {
             <div className="col-md-12 row justify-content-md-center">
                 {
                     services.map((service, index) => (
-                        index > 8
+                        index > 10
                             ? <Service key={service.id} service={service}></Service>
                             : null
                     ))
