@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "course_name": "FaceBook Marketing.",
+        "description": "Freelancing course is now available in Bangla. Learn freelancing from home in just one course with tutorials, notes, quizzes and cheatsheets.",
+        "price": 450,
+        "image": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Facebook%20Marketing_Landscape.jpg"
+    },
+    {
+        "id": 2,
+        "course_name": "ঘরে বসে Freelancing",
+        "description": "Freelancing course is now available in Bangla. Learn freelancing from home in just one course with tutorials, notes, quizzes and cheatsheets.",
+        "price": 450,
+        "image": "https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FGhore-Boshe-Freelancing---Title-thumbnail.jpg"
+    },
+    {
+        "id": 3,
+        "course_name": "Microsoft Powerpoint",
+        "description": "Learn PowerPoint from Beginner to Expert Level now in just one online course. 50 PowerPoint online tutorials are there to take you to the next level.",
+        "price": 450,
+        "image": "https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FMicrosoft-PowerPoint-%28Beginner-to-Expert%29---Title-Thumbnail.jpg"
+    },
+    {
+        "id": 4,
+        "course_name": "Microsoft Excel",
+        "description": "Learn Microsoft Excel online from beginner to expert level. Enroll in course now with 50 Excel tutorial, quiz, workbook and many more.",
+        "price": 450,
+        "image": "https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FMicrosoft-Excel-Beginner-to-Expert---Title-Thumbnail.jpg"
+    },
+    {
+        "id": 5,
+        "course_name": "Cartoon Animation",
+        "description": "Want new cartoon drawing ideas? Enroll in Cartoon Animation Online class with 10 tutorial videos, quiz and notes.",
+        "price": 450,
+        "image": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Cartoon%20Animation_Landscape.jpg"
+    },
+    {
+        "id": 6,
+        "course_name": "Presentation & Public Speaking",
+        "description": "Get rid of your fear of presentation and become a better public speaker and presenter with this free course!",
+        "price": 450,
+        "image": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Presentation%20and%20Public%20Speaking_Landscape.jpg"
+    },
+    {
+        "id": 7,
+        "course_name": "Web Design",
+        "description": "A complete guideline of website designing through 46 Web design tutorial, quiz, notes and many more.",
+        "price": 450,
+        "image": "https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FWeb-Design---Title-Thumbnail.jpg"
+    },
+    {
+        "id": 8,
+        "course_name": "CV Writing & Interview",
+        "description": "Master the essentials of writing your CV and give your interview preparation a major boost with this free course!",
+        "price": 450,
+        "image": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/CV%20Writing%20and%20Interview%20Skills_Landscape.jpg"
+    },
+    {
+        "id": 9,
+        "course_name": "Wedding Photography",
+        "description": "Learn how to become a professional wedding photographer. Find out what gear you need, techniques for shooting and editing photos, pricing tips, marketing & sales, and more.",
+        "price": 450,
+        "image": "https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FWedding-Photography---Title-Thumbnail.jpg"
+    },
+    {
+        "id": 10,
+        "course_name": "Graphic Designing with PowerPoint",
+        "description": "Graphic Design Course is now online. Learn graphic design with PowerPoint and become a pro in it.",
+        "price": 450,
+        "image": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Graphic%20Designing%20w.%20PPPT_Landscape.jpg"
+    },
+    {
+        "id": 11,
+        "course_name": "Email Writing",
+        "description": "Be it for a formal, personal, or business, master the strategies, techniques, and tips & tricks of email writing, with this free course",
+        "price": 450,
+        "image": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Email%20Writing_Landscape.jpg"
+    },
+    {
+        "id": 12,
+        "course_name": "How to Publish a Book",
+        "description": "If you're thinking about publishing your own book, then this free course is the best guide you can have!",
+        "price": 450,
+        "image": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/How%20to%20Publish%20a%20Book_Landscape.jpg"
+    },
+    {
+        "id": 13,
+        "course_name": "Communication Secrets",
+        "description": "Learn the secrets of effective communication to excel at your workplace or Extra Curricular Acitivitiess with this free course!",
+        "price": 450,
+        "image": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Communication%20Secrets_Landscape.jpg"
+    },
+    {
+        "id": 14,
+        "course_name": "Negotiation Skills",
+        "description": "Master the skills and strategies of negotiation and become a persuasive negotiator to win every scenario with just a talk!",
+        "price": 450,
+        "image": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Negotiations%20Skills_Landscape.jpg"
+    },
+    {
+        "id": 15,
+        "course_name": "Career Guidance",
+        "description": "Not getting a proper career counseling guideline or career planning help? Career Guidance online course is then only for you.",
+        "price": 450,
+        "image": "https://cdn.10minuteschool.com/images/skills/thumb/Career-Guidance--Title-Thumbnail.jpg"
+    }
+]
