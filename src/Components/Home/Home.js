@@ -12,6 +12,7 @@ const Home = () => {
     return (
         <div className="container">
             <div className="col-md-12">
+                {/* HOME PAGE SLIDER SECTION START FROM HERE  */}
                 <Carousel>
                     <Carousel.Item>
                         <img
@@ -40,13 +41,12 @@ const Home = () => {
                             src="https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FMicrosoft-PowerPoint-%28Beginner-to-Expert%29---Title-Thumbnail.jpg"
                             alt="Third slide"
                         />
-
                         <Carousel.Caption>
-
                         </Carousel.Caption>
                     </Carousel.Item>
                 </Carousel>
             </div>
+            {/* HOME PAGE SOME SERVICES SHOW START FROM HERE  */}
             <div className="col-md-12 row justify-content-md-center">
                 {
                     services.map((service, index) => (

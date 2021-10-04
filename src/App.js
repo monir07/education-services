@@ -11,7 +11,9 @@ function App() {
   return (
     <div >
       <BrowserRouter>
+        {/* SITE HEADER SECTION START FROM HERE */}
         <NavBar></NavBar>
+        {/* ALL ROUTER START FROM HERE  */}
         <Switch>
           <Route exact path="/">
             <Home></Home>
@@ -33,6 +35,7 @@ function App() {
           </Route>
         </Switch>
       </BrowserRouter>
+      {/* SITE FOOTER SECTION START FROM HERE  */}
       <Footer></Footer>
     </div>
   );
